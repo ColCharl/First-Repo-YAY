@@ -1,14 +1,14 @@
 body{
-    background:green;
-    color: #70003D;
+    background:#046307;
+    color: #EEBC1D;
     margin: 100px;
 }
 p{
-    color: #FF33F0;
+    color: #000000;
 }
 .noun{
     font-weight: 900;
-    color: black;
+    color: #00FFFF;
 }
 p.noun{
     color:white;
