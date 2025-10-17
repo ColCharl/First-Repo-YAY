@@ -1,6 +1,6 @@
 body{
     color: blue;
-    background-color: orange;
+    background-color: darkorange;
     margin:50px;
     
 }
@@ -8,4 +8,26 @@ h1{
     color: yellow;
 }
 hr{margin-left:-25px;}
-.noun{color:green;}
+.noun{color:green;
+font-weight: 1000;
+}
+p{
+    color: #400C4C;
+    font-weight: 1000;
+}
+h2{color: purple}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+
+}
+span.wrong { color: #800020; }
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+
+}

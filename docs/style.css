@@ -1,6 +1,6 @@
 body{
-    background:#046307;
-    color: #EEBC1D;
+    background:#ADEBB3;
+    color: #BA8E23;
     margin: 100px;
 }
 p{
@@ -8,10 +8,10 @@ p{
 }
 .noun{
     font-weight: 900;
-    color: #00FFFF;
+    color: #008B8B;
 }
 p.noun{
-    color:white;
+    color:grey;
 }
 img {
   border: 1px solid #ddd;
@@ -20,3 +20,4 @@ img {
   width: 150px;
 
 }
+span.wrong { color: red; }
